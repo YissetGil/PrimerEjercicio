@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listaventas SYSTEM "PrimerEjercicio.dtd">
+<listaventas>
+    <venta>
+        <importe>100</importe>
+        <comprador>Oscar</comprador>
+        <vendedor>Santigil</vendedor>
+        <codigofactura>abc1</codigofactura>
+    </venta>
+    <venta>
+        <importe>1200</importe>
+        <comprador>Claudia</comprador>
+        <vendedor>SandraOspina</vendedor>
+        <fecha>27-7-2022</fecha>
+        <codigofactura>E18</codigofactura>
+    </venta>
+</listaventas>
